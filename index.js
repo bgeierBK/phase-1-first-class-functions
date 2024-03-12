@@ -4,7 +4,7 @@ function receivesAFunction(cb){
 
 
 function returnsANamedFunction(){
-    return function(namedFunction){ 
+    return function namedFunction(){ 
     }
 }
 
